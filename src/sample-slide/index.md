@@ -20,10 +20,46 @@ _class: lead
 hogehogehogehogehogehogehogehoge
 hogehogehogehogehogehogehogehoge.
 
+# 目次
+
+<!--
+_class: toc
+ -->
+
+- Page 1
+- Page 2
+- Page 3
+- Page 4
+- Page 5
+
+# 目次
+
+<!--
+_class: toc
+ -->
+
+- **Page 1**
+- Page 2
+- Page 3
+- Page 4
+- Page 5
+
 # Page 1
 
-- fuga
+- page 1
 
-# Page ２
+# 目次
 
-- fuga
+<!--
+_class: toc
+ -->
+
+- Page 1
+- **Page 2**
+- Page 3
+- Page 4
+- Page 5
+
+# Page 2
+
+- page 2
