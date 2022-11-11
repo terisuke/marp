@@ -139,3 +139,7 @@ blockquote {
   position: absolute;
   bottom: var(--header-footer-height);
 }
+
+section::after {
+  content: attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total);
+}
