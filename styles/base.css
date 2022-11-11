@@ -1,5 +1,6 @@
 /* @theme base */
 @import "gaia";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@200;400;700&family=Noto+Serif+JP&display=swap");
 
 :root {
   --main-theme: rgb(14, 131, 253);
@@ -24,6 +25,7 @@ section {
   font-size: var(--main-font-size);
   font-weight: var(--font-weight-normal);
   color: var(--black);
+  font-family: "Noto Serif JP", sans-serif;
 }
 
 header {
