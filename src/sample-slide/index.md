@@ -2,7 +2,8 @@
 marp: true
 theme: "base"
 header: "TITLE DATE"
-footer: "Footer"
+footer: "[Twemoji](https://twemoji.twitter.com/) © Copyright 2020 Twitter, Inc and other contributors (Licensed under CC BY 4.0）
+"
 headingDivider: 1
 paginate: true
 size: 16:9
@@ -90,3 +91,10 @@ _class: lead
 
 > [1] https://example.com  
 > [2] https://sub.example.com
+
+# 絵文字サンプル 👍
+
+- 箇条書きにも良い
+  - ✅ 野球 ⚾
+  - ✅ バスケットボール 🏀
+  - ✅ サッカー ⚽
