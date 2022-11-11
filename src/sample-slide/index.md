@@ -63,3 +63,11 @@ _class: toc
 # Page 2
 
 - page 2
+
+# 退屈な会議、やめませんか？
+
+![opacity:0.1 bg grayscale](./images/2022-11-11-13-04-59-89.png)
+
+<!--
+_class: lead
+ -->
