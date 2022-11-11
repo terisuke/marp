@@ -150,3 +150,7 @@ blockquote::after {
 section::after {
   content: attr(data-marpit-pagination) " / " attr(data-marpit-pagination-total);
 }
+
+section {
+  cursor: url("../../assets/laser-red.png"), pointer;
+}
