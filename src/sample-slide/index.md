@@ -11,8 +11,19 @@ math: katex
 
 # TITLE
 
-- hoge
+<!--
+_class: lead
+-->
+
+## hoge event / DATE
+
+hogehogehogehogehogehogehogehoge
+hogehogehogehogehogehogehogehoge.
 
 # Page 1
+
+- fuga
+
+# Page ２
 
 - fuga
