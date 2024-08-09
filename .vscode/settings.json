@@ -10,5 +10,12 @@
       "strings": true
     },
     "editor.snippetSuggestions": "top"
-  }
+  },
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.themes": [
+    "./styles/base.css",
+    "./styles/lt.css",
+    "./styles/mtg.css",
+    "./styles/dark.css"
+  ]
 }
