@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: "dark"
-header: "テリスケ流！アクティブに生きるコツ"
+header: "制限時間に怯えない！クリックするだけの楽々発表システム"
 footer: "Cor.Inc."
 headingDivider: 1
 paginate: true
@@ -13,39 +13,32 @@ math: katex
 
 ![width:450px](./images/ずんだもん.png)
 
-# テリスケ is 何？
-
-![width:140px](./images/profile.png)
-
-- 芸術大学を卒業、フィンランドのオーケストラへ留学兼就職
-- 歯列矯正するために帰国、またフリーランスに
-- 矯正終わったらいきなりコロナ、簿記を独学で取得
-- リクルートに転職、法人営業(← 未経験)
-- 去年 4 月からプログラミング教室に通って 12 月に退職
-- ソフトウェア開発のスタートアップを立ち上げる(← 未経験)
-- 3 ヶ月で 7kg のダイエット成功 ← NEW!
-
 #
 
-![bg left](./images/penguin.png)
+![bg left](./images/DALL·E%202024-08-24%2016.15.57%20-%20A%20cute%20anime-style%20illustration%20of%20a%20female%20presenter%20giving%20a%20presentation%20while%20lying%20down.%20The%20presenter%20has%20a%20friendly%20and%20relaxed%20expression,%20wit.webp)
 
 <div align="center">
-  <h4>テリスケ流</h4>
-  <h2 style="font-size: 80px; font-weight: bold;">
-  アクティブに</h2>
-  <h2 style="font-size: 80px; font-weight: bold;">
-  生きるコツ</h2>
+  <h4>制限時間に怯えない！</h4>
+  <h2 style="font-size: 60px; font-weight: bold;">
+  クリックするだけの</h2>
+  <h2 style="font-size: 60px; font-weight: bold;">
+  楽々発表システム</h2>
   <h4>presented by ずんだもん</h4>
 </div>
 
-# 1. 成功者の行動を何も考えずに真似すると詰む
+# Marp is 何？
 
-- 思ったことを即行動に移せる人は少ない
-- 変わり者のルーティンを真似しても 3 日で限界が来る
-- アップル CEO の真似をして朝 4 時起きを試みた結果、2 週間無駄にした
-  ![width:350px height:250px](./images/minoruty.png) ![width:350px height:250px](./images/虚無虚無.jpg) ![width:350px height:250px](./images/コロンビア.jpg)
+![height:200px](./images/marp.png)
 
-→ 行動じゃなくて思考パターンを参考にした方がいい
+- Marp は Markdown でスライドを作成できるツール
+- プレゼンテーションのためのスライドをエディターで簡単に作成できる
+- HTML や PDF などの形式で出力できる
+- GitHub でのスライド管理も可能
+- CSS や Assets でレイアウト、ソースを管理できる
+
+# オススメ Marp 関連書籍
+
+![width:140px](./images/)
 
 # 2. 年初にでかい目標を立てるのは負けフラグ
 
